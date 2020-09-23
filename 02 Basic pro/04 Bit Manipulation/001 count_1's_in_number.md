@@ -28,4 +28,4 @@ n = 23 = {10111}2 .
 5. As n-1 = 15 = {01111}2 , then n&(n-1) will be {10000}2 & {01111}2, which will be {00000}2 which is equal to 0. Therefore n will change to 0 and count to 4.
 6. As n = 0, the the loop will terminate and gives the result as 4.
 
-Complexity: O(K), where K is the number of ones present in the binary form of the given number.
+Complexity: O(K), where K is the number of ones present in the binary form of the given number
